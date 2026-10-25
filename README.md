@@ -1,9 +1,15 @@
 # Station
 
-A dark Omarchy theme with charcoal surfaces, olive green, warm white, and Station orange.
-Created with Aether for the [Station multi-monitor plugin](https://github.com/Yakumy/Station).
+![Station theme cover](preview.png)
 
-![Station theme palette](preview.png)
+A dark Omarchy theme with charcoal surfaces, olive green, warm white, and
+Station orange. It is designed for the
+[Station multi-monitor plugin](https://github.com/Yakumy/Station) and was
+created with Aether.
+
+## Desktop preview
+
+![Station theme running on a Station-managed desktop](assets/station-desktop.png)
 
 ## Install
 
