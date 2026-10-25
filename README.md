@@ -7,9 +7,9 @@ Station orange. It is designed for the
 [Station multi-monitor plugin](https://github.com/Yakumy/Station) and was
 created with Aether.
 
-## Station layout
+## Desktop preview
 
-![Station theme with Station's multi-monitor layout](assets/station-layout.png)
+![Station theme running on a Station-managed desktop](assets/station-desktop.png)
 
 ## Install
 
